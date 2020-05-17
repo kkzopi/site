@@ -1,6 +1,6 @@
 body {
     background-image:
-    url('http://st.gde-fon.com/wallpapers_original/238197_fon_tekstura_goluboj_2560x1600_www.Gde-Fon.com.jpg');
+    url('/fundo.jpg');
     background-size: auto 100vh;
     font-family: Arial;
   }
