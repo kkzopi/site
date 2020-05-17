@@ -1,6 +1,5 @@
 body {
-    background-image:
-    url('/fundo.jpg');
+    background-image: url('https://raw.githubusercontent.com/kkzopi/site/master/fundo.jpg');
     background-size: auto 100vh;
     font-family: Arial;
   }
